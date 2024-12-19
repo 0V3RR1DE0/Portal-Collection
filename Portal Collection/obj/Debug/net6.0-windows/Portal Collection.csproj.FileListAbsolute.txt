@@ -1,0 +1,26 @@
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\Portal Collection.exe
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\Portal Collection.deps.json
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\Portal Collection.runtimeconfig.json
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\Portal Collection.dll
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\Portal Collection.pdb
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal Collection.csproj.AssemblyReference.cache
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal_Collection.Form1.resources
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal Collection.csproj.GenerateResource.cache
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal Collection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal Collection.AssemblyInfoInputs.cache
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal Collection.AssemblyInfo.cs
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal Collection.csproj.CoreCompileInputs.cache
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal Collection.dll
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\refint\Portal Collection.dll
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal Collection.pdb
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal Collection.genruntimeconfig.cache
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\ref\Portal Collection.dll
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\Steamworks.NET.dll
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\runtimes\linux-x64\lib\netstandard2.1\Steamworks.NET.dll
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\runtimes\linux-x86\lib\netstandard2.1\Steamworks.NET.dll
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\runtimes\osx-x64\lib\netstandard2.1\Steamworks.NET.dll
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\runtimes\osx-x86\lib\netstandard2.1\Steamworks.NET.dll
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\runtimes\win-x64\lib\netstandard2.1\Steamworks.NET.dll
+E:\Portal Launcher\Portal Collection\Portal Collection\bin\Debug\net6.0-windows\runtimes\win-x86\lib\netstandard2.1\Steamworks.NET.dll
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal Collection.csproj.CopyComplete
+E:\Portal Launcher\Portal Collection\Portal Collection\obj\Debug\net6.0-windows\Portal_Collection.Form2.resources

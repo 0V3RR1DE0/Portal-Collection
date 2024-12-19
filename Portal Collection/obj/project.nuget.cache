@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUlhMkHOibb/1o+5aEiYdQ8lGwQa3R7z3oM07WQDalYEQ16Wg+nGYnrgo61KEBNTtXKu4Z3EVvpn0LCK+A80jw==",
+  "success": true,
+  "projectFilePath": "E:\\Portal Launcher\\Portal Collection\\Portal Collection\\Portal Collection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bok\\.nuget\\packages\\steamworks.net\\20.1.0\\steamworks.net.20.1.0.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Bok\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
